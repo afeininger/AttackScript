@@ -1,2 +1,0 @@
-# AttackScript
-ACN Attack Script
